@@ -1,12 +1,80 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Kapamilya_Channel.png" group-title="PH LOCAL & CABLE",Kapamilya Channel
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kapamilya Channel HD" tvg-logo="https://assets.rappler.com/3E8CFD536445453C9575551922F68F49/img/2E6A2E728F1C458D96BFE09C03A8FCC4/Kapamilya_Channel_logo_2E6A2E728F1C458D96BFE09C03A8FCC4.jpg" group-title="PH LOCAL & CABLE",Kapamilya Channel HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="(no group)",DZMM Teleradyo
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/1024px-TV5_%28ABC5%29_Logo.svg.png" group-title="PH LOCAL & CABLE",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="PH LOCAL & CABLE",GMA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="PH LOCAL & CABLE",CNN PH SD
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="(no group)",CNN USA
+http://web24.live:8080/6657847853/UecFX5R79a/1033
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Jeepneytvnewlogo2015.jpg" group-title="PH LOCAL & CABLE",JEEPNEY TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="(no group)",Cinemo
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+#EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="http://www.canadianinquirer.net/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="(no group)",Cinema One
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+#EXTINF:-1 tvg-id="pbo" tvg-name="PBO" tvg-logo="https://www.clipartmax.com/png/middle/111-1111324_pbo-logo-pbo-pinoy-box-office.png" group-title="(no group)",PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="(no group)",HBO SD
+https://yamcode.com/raw/hbo-sd2-35
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="(no group)",HBO HD
+https://yamcode.com/raw/hbo-hbogo
+#EXTINF:-1 tvg-id="CINEMAX (HD)" tvg-name="Cinemax SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="(no group)",Cinemax SD
+https://yamcode.com/raw/cinemax-sd2
+https://yamcode.com/raw/cinemax-sd2
+#EXTINF:-1 tvg-id="CINEMAX (HD)" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="(no group)",Cinemax HD
+https://yamcode.com/raw/cinemax-hbogo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WarnerTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="(no group)",WarnerTV
+http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="FOX Movies" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="(no group)",Fox Movies
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="(no group)",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="(no group)",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="(no group)",Warner TV
+http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png" group-title="(no group)",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA USA" tvg-logo="http://assets.stickpng.com/thumbs/58428defa6515b1e0ad75ab4.png" group-title="(no group)",NBA USA
+http://web24.live:8080/6657847853/UecFX5R79a/823
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="(no group)",Disney Channel
+http://web24.live:8080/6657847853/UecFX5R79a/1019
+#EXTINF:-1 tvg-id="DisneyJuniorUS.us" tvg-name="Disney Junior" tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="(no group)",Disney Junior
+http://web24.live:8080/6657847853/UecFX5R79a/1017
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="(no group)",Disney XD
+http://web24.live:8080/6657847853/UecFX5R79a/1014
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="http://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="(no group)",Cartoon Network
+http://web24.live:8080/6657847853/UecFX5R79a/1084
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="(no group)",Boomerang
+https://yamcode.com/raw/boomerang
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="(no group)",Animax
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1 tvg-id="Nat Geo" tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="(no group)",National Geographic
+https://yamcode.com/raw/nat-geo-39
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="(no group)",Nat Geo Wild
+https://yamcode.com/raw/nat-geo-wild
+#EXTINF:-1 tvg-id="History.us" tvg-name="History Channel" tvg-logo="http://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="(no group)",History Channel
+http://tvmedia2.com:8080/trevor/trevor/164278.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="https://img.pngio.com/discovery-channel-logos-download-discovery-channel-logo-png-5000_1130.png" group-title="(no group)",Discovery Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" group-title="(no group)",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="(no group)",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimeandInvestigationNetwork.us" tvg-name="Crime Investigation" tvg-logo="https://download.logo.wine/logo/Crime_%2B_Investigation_(Australian_TV_channel)/Crime_%2B_Investigation_(Australian_TV_channel)-Logo.wine.png" group-title="(no group)",Crime Investigation
+http://203.154.243.31:15001
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="(no group)",AXN HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="afc" tvg-name="Asian Food Network" tvg-logo="https://asianfoodnetwork.com/content/dam/afn/global/en/common/logo/afn-logo-white-w-padding.png" group-title="(no group)",Asian Food Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="(no group)",Food Network
+http://web24.live:8080/6657847853/UecFX5R79a/986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_TLC_HD.svg/1200px-Logo_TLC_HD.svg.png" group-title="(no group)",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+
+
+
