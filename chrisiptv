@@ -31,10 +31,18 @@ https://yamcode.com/raw/cinemax-sd2
 https://yamcode.com/raw/cinemax-sd2
 #EXTINF:-1 tvg-id="CINEMAX (HD)" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="(no group)",Cinemax HD
 https://yamcode.com/raw/cinemax-hbogo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BlueAnt Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="PH LOCAL & CABLE",BlueAnt Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WarnerTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="(no group)",WarnerTV
 http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CinemaWorld" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="PH LOCAL & CABLE",CinemaWorld
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX Movies" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="(no group)",Fox Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCZskvXdJmriJdowDwFgqqnVuFwb0azeb7g&usqp=CAU" group-title="PH LOCAL & CABLE",Paramount Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Movies Action" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sony_movies_action--1-.png" group-title="PH LOCAL & CABLE",Sony Movies Action
+http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="(no group)",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="(no group)",&Flix HD
@@ -63,8 +71,10 @@ http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27456
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="(no group)",National Geographic
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="(no group)",Nat Geo Wild
-https://yamcode.com/raw/nat-geo-wild
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="PH LOCAL & CABLE",Nat Geo Wild Asia
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (US)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/10/aniumal-2-3.jpg" group-title="PH LOCAL & CABLE",Animal Planet (US)
+http://tvmedia2.com:8080/trevor/trevor/164358.ts
 #EXTINF:-1 tvg-id="History.us" tvg-name="History Channel" tvg-logo="http://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="(no group)",History Channel
 http://tvmedia2.com:8080/trevor/trevor/164278.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="https://img.pngio.com/discovery-channel-logos-download-discovery-channel-logo-png-5000_1130.png" group-title="(no group)",Discovery Channel
@@ -83,6 +93,8 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 http://web24.live:8080/6657847853/UecFX5R79a/986
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_TLC_HD.svg/1200px-Logo_TLC_HD.svg.png" group-title="(no group)",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (us)" tvg-logo="https://uploads.dailydot.com/2020/05/tnt_best_shows.jpg?fm=pjpg&ixlib=php-3.3.0" group-title="PH LOCAL & CABLE",TNT (us)
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/15366
 
 
 
