@@ -14,8 +14,12 @@ http://web24.live:8080/6657847853/UecFX5R79a/1033
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="(no group)",Cinemo
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMo! Global" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinemo.jpg" group-title="PH LOCAL & CABLE",CineMo! Global
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
 #EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="http://www.canadianinquirer.net/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="(no group)",Cinema One
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Asia" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" group-title="PH LOCAL & CABLE",Cinema One Asia
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 #EXTINF:-1 tvg-id="pbo" tvg-name="PBO" tvg-logo="https://www.clipartmax.com/png/middle/111-1111324_pbo-logo-pbo-pinoy-box-office.png" group-title="(no group)",PBO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="(no group)",HBO SD
@@ -51,6 +55,10 @@ http://web24.live:8080/6657847853/UecFX5R79a/1014
 http://web24.live:8080/6657847853/UecFX5R79a/1084
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="(no group)",Boomerang
 https://yamcode.com/raw/boomerang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/300?cb=20210206092434" group-title="PH LOCAL & CABLE",Nick
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg/revision/latest/scale-to-width-down/200?cb=20120325154425" group-title="PH LOCAL & CABLE",Nick Jr.
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27456
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="(no group)",Animax
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="National Geographic" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="(no group)",National Geographic
