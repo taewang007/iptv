@@ -1,0 +1,12 @@
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Kapamilya_Channel.png" group-title="PH LOCAL & CABLE",Kapamilya Channel
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kapamilya Channel HD" tvg-logo="https://assets.rappler.com/3E8CFD536445453C9575551922F68F49/img/2E6A2E728F1C458D96BFE09C03A8FCC4/Kapamilya_Channel_logo_2E6A2E728F1C458D96BFE09C03A8FCC4.jpg" group-title="PH LOCAL & CABLE",Kapamilya Channel HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/1024px-TV5_%28ABC5%29_Logo.svg.png" group-title="PH LOCAL & CABLE",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="PH LOCAL & CABLE",GMA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="PH LOCAL & CABLE",CNN PH SD
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Jeepneytvnewlogo2015.jpg" group-title="PH LOCAL & CABLE",JEEPNEY TV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
