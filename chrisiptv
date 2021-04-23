@@ -41,7 +41,6 @@ http://203.154.243.89:11205/
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA USA" tvg-logo="http://assets.stickpng.com/thumbs/58428defa6515b1e0ad75ab4.png" group-title="(no group)",NBA USA
 http://web24.live:8080/6657847853/UecFX5R79a/823
-#EXTINF:-1 tvg-id="Solar Sports" tvg-name="Solar Sports" tvg-logo="http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="(no group)",Disney Channel
 http://web24.live:8080/6657847853/UecFX5R79a/1019
 #EXTINF:-1 tvg-id="DisneyJuniorUS.us" tvg-name="Disney Junior" tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="(no group)",Disney Junior
