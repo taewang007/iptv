@@ -6,10 +6,12 @@ https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="PH LOCAL & CABLE",GMA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-logo="https://pbs.twimg.com/profile_images/1150717770478379008/8-XiwK-s.png" group-title="PH LOCAL & CABLE",BBC World News
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/18385
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/512px-CNN_Philippines_Logo.svg.png" group-title="PH LOCAL & CABLE",CNN PH SD
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="http://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="(no group)",CNN USA
-http://web24.live:8080/6657847853/UecFX5R79a/1033
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD (us)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="PH LOCAL & CABLE",CNN HD (us)
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Jeepneytvnewlogo2015.jpg" group-title="PH LOCAL & CABLE",JEEPNEY TV
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="(no group)",Cinemo
@@ -49,6 +51,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="(no group)",Warner TV
 http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Solar Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="PH LOCAL & CABLE",Solar Sports
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FightBox US" tvg-logo="https://spiintl.com/data/files/zdjecie/c0/de/c0de4296cb6087762e595bb1387ddf8852d9ecbde582e0e35c7e4af1bfc5e342.png" group-title="PH LOCAL & CABLE",FightBox US
+http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/27188
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV Philippines" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/aa/NBA_TV_Philippines_Logo_2020.png/revision/latest/scale-to-width-down/200?cb=20200801032022" group-title="PH LOCAL & CABLE",NBA TV Philippines
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/espn-symbol.jpg" group-title="PH LOCAL & CABLE",ESPN
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png" group-title="(no group)",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA USA" tvg-logo="http://assets.stickpng.com/thumbs/58428defa6515b1e0ad75ab4.png" group-title="(no group)",NBA USA
@@ -95,6 +105,11 @@ http://web24.live:8080/6657847853/UecFX5R79a/986
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT (us)" tvg-logo="https://uploads.dailydot.com/2020/05/tnt_best_shows.jpg?fm=pjpg&ixlib=php-3.3.0" group-title="PH LOCAL & CABLE",TNT (us)
 http://85.203.33.88:80/VZQxOvuPUN12/s2bPrc830/15366
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARIRANG Korea" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Arirang_TV.png/revision/latest/scale-to-width-down/300?cb=20190507081630" group-title="PH LOCAL & CABLE",ARIRANG Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorld(src01).jp" tvg-name="NHK World Japan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/NHK_World_Japan.png/revision/latest/scale-to-width-down/250?cb=20160416042601" group-title="PH LOCAL & CABLE",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="DWDeutschplus(German).us" tvg-name="Deutsche Welle (DW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="PH LOCAL & CABLE",Deutsche Welle (DW)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 
 
